@@ -4,6 +4,7 @@ voice.record.conc.disabled=true
 voice.voip.conc.disabled=true
 
 # Display
+debug.hwui.use_buffer_age=false
 ro.sf.lcd_density=480
 ro.opengles.version=196609
 
